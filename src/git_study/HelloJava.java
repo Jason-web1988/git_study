@@ -5,6 +5,8 @@ public class HelloJava {
 		System.out.println("Hello World");		
 		System.out.println("World's end Dancehall");
 		System.out.println("Earth's End DanceHall");
+		System.out.println("Hello Java");
+
 	}
 
 }
